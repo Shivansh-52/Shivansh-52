@@ -17,7 +17,7 @@ Machine Learning • Data Visualization • Statistics • Generative AI
 
 ### 📫 Connect With Me
 - 💼 LinkedIn: **linkedin.com/in/shivansh-chaurasiya-5a5986295**
-- 📧 Email: **your-email@example.com**
+- 📧 Email: shivansh0962@gmail.com
 
 ---
 
