@@ -16,7 +16,7 @@ Machine Learning • Data Visualization • Statistics • Generative AI
 🐍 Python Basics Repository
 
 ### 📫 Connect With Me
-- 💼 LinkedIn: **linkedin.com/in/shivansh-chaurasiya-5a5986295**
+- 💼 LinkedIn: **linkedin.com/in/shivansh43**
 - 📧 Email: shivansh0962@gmail.com
 
 ---
