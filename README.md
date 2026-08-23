@@ -1,42 +1,25 @@
 <div align="center">
-  <picture>
-    <img src="assets/cyber-spider-hero.jpg" alt="Cyber Spider-Hero AI Banner" width="100%" style="border-radius: 15px;" />
-  </picture>
+  <img src="assets/spider-banner.svg" alt="Spider-Verse Banner" width="100%" />
 </div>
-
-<br/>
 
 <div align="center">
-  <h1>Hi, I'm Shivansh Chaurasiya <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMy2/giphy.gif" width="35" /></h1>
-  <strong>🎓 MCA (Data Science) Student | 📊 Data Analytics Intern | 🚀 Aspiring Data Scientist</strong><br/>
-  <i>"With great data comes great impact."</i>
+  <strong>🎓 MCA (Data Science) Student | 📊 Data Analytics Intern | 🚀 Aspiring Data Scientist</strong>
 </div>
 
-<br/>
+<br />
 
 <div align="center">
   <img src="assets/spider-divider.svg" alt="Divider" width="100%" />
 </div>
 
-<table align="center" width="100%" border="0" cellpadding="20">
-<tr>
-<td width="60%" valign="top">
-
-## 🕸️ Into The Data-Verse
+## 🕸️ About Me
 
 I'm a Data Science student who enjoys turning raw data into meaningful insights and building practical AI/ML projects. I believe in learning by building — every project is another web connecting me to the next skill. 🕷️
 
-- 🔭 **Currently working on:** Data Analytics, Machine Learning, Data Visualization, Generative AI.
+- 🔭 **Currently working on:** Data Analytics, Machine Learning, Data Visualization, Generative AI, and Python-based projects.
 - 🎓 **Education:** MCA (Data Science) Student.
 - 🌍 **Based in:** Varanasi, India.
-- 💬 **Ask me about:** Python, Data Analysis, ML, React, and Generative AI.
-
-</td>
-<td width="40%" align="center" valign="middle">
-  <img src="assets/neon-spider-emblem.jpg" width="250" style="border-radius: 20px; box-shadow: 0 0 20px #E13036;" alt="Neon Spider AI Emblem"/>
-</td>
-</tr>
-</table>
+- 💬 **Ask me about:** Python, Data Analysis, Machine Learning, React, and Generative AI.
 
 <div align="center">
   <img src="assets/spider-divider.svg" alt="Divider" width="100%" />
@@ -57,6 +40,7 @@ I'm a Data Science student who enjoys turning raw data into meaningful insights 
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
@@ -86,9 +70,9 @@ I'm a Data Science student who enjoys turning raw data into meaningful insights 
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Shivansh-52/Shivansh-52/raw/output/dist/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Shivansh-52/Shivansh-52/raw/output/dist/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://github.com/Shivansh-52/Shivansh-52/raw/output/dist/github-contribution-grid-snake-dark.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shivansh-52/Shivansh-52/output/dist/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shivansh-52/Shivansh-52/output/dist/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Shivansh-52/Shivansh-52/output/dist/github-contribution-grid-snake-dark.svg" width="100%" />
   </picture>
 </div>
 
@@ -104,6 +88,9 @@ I'm a Data Science student who enjoys turning raw data into meaningful insights 
   </a>
   <a href="https://www.linkedin.com/in/shivansh43">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-E13036?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
