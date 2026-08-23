@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/spider-banner.svg" alt="Spider-Verse Banner" width="100%" />
+  <img src="assets/spider-banner.svg?v=2" alt="Spider-Verse Banner" width="100%" />
 </div>
 
 <div align="center">
