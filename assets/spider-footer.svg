@@ -1,0 +1,9 @@
+<svg width="800" height="60" viewBox="0 0 800 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="60" fill="#0D0D12"/>
+  <text x="400" y="35" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="500" fill="#888888" text-anchor="middle">
+    Built with <tspan fill="#E13036">🕷️ spider-sense</tspan> in Varanasi. © 2024 Shivansh Chaurasiya.
+  </text>
+  <!-- Subtle web lines in corners -->
+  <path d="M0,0 L30,60 M0,20 L60,60 M0,40 L90,60" stroke="#387ACF" stroke-width="0.5" opacity="0.3"/>
+  <path d="M800,0 L770,60 M800,20 L740,60 M800,40 L710,60" stroke="#E13036" stroke-width="0.5" opacity="0.3"/>
+</svg>

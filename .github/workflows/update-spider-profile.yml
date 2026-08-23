@@ -1,0 +1,45 @@
+name: Generate Spider-Verse Contribution Snake
+
+on:
+  schedule:
+    # Runs every day at midnight UTC
+    - cron: "0 0 * * *"
+  
+  # Allows manual execution
+  workflow_dispatch:
+  
+  # run on every push on the master/main branch
+  push:
+    branches:
+    - main
+    - master
+
+jobs:
+  generate:
+    permissions: 
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Shivansh-52
+          # Dark mode palette with Spider-Verse accent colors
+          # Empty cells are dark grey
+          # Contribution cells range from light grey to bright Red/Blue
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=#387ACF&color_dots=#161b22,#4a1d23,#a32429,#E13036,#387ACF
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#387ACF&color_dots=#161b22,#4a1d23,#a32429,#E13036,#387ACF
+
+      - name: Push generated SVG to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

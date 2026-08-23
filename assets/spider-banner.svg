@@ -1,0 +1,42 @@
+<svg width="800" height="250" viewBox="0 0 800 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Dark Background -->
+  <rect width="800" height="250" fill="#0D0D12"/>
+  
+  <!-- Subtle Grid & Web Elements -->
+  <g opacity="0.15">
+    <path d="M400,0 L400,250 M0,125 L800,125" stroke="url(#webGradient)" stroke-width="2"/>
+    <circle cx="400" cy="125" r="50" stroke="url(#webGradient)" stroke-width="1.5"/>
+    <circle cx="400" cy="125" r="100" stroke="url(#webGradient)" stroke-width="1.5"/>
+    <circle cx="400" cy="125" r="150" stroke="url(#webGradient)" stroke-width="1.5"/>
+    <path d="M300,25 L500,225 M300,225 L500,25 M200,60 L600,190 M200,190 L600,60" stroke="url(#webGradient)" stroke-width="1.5"/>
+  </g>
+  
+  <!-- Red & Blue Glare Accents -->
+  <ellipse cx="100" cy="50" rx="200" ry="100" fill="url(#redGlow)" opacity="0.4" filter="blur(40px)"/>
+  <ellipse cx="700" cy="200" rx="200" ry="100" fill="url(#blueGlow)" opacity="0.4" filter="blur(40px)"/>
+
+  <!-- Typography -->
+  <text x="400" y="90" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="36" font-weight="800" fill="#FFFFFF" text-anchor="middle" letter-spacing="2">SHIVANSH CHAURASIYA</text>
+  
+  <text x="400" y="130" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#E13036" text-anchor="middle" letter-spacing="4">DATA ANALYST &amp; AI ENTHUSIAST</text>
+  
+  <rect x="250" y="155" width="300" height="40" rx="20" fill="rgba(255,255,255,0.05)" stroke="#387ACF" stroke-width="1"/>
+  <text x="400" y="181" font-family="'Courier New', Courier, monospace" font-size="14" font-weight="500" fill="#387ACF" text-anchor="middle">"With great code comes great impact."</text>
+
+  <!-- Gradients -->
+  <defs>
+    <linearGradient id="webGradient" x1="0" y1="0" x2="800" y2="250" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E13036"/>
+      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#387ACF"/>
+    </linearGradient>
+    <radialGradient id="redGlow" cx="0.5" cy="0.5" r="0.5" fx="0.5" fy="0.5">
+      <stop offset="0%" stop-color="#E13036"/>
+      <stop offset="100%" stop-color="#E13036" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="blueGlow" cx="0.5" cy="0.5" r="0.5" fx="0.5" fy="0.5">
+      <stop offset="0%" stop-color="#387ACF"/>
+      <stop offset="100%" stop-color="#387ACF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>

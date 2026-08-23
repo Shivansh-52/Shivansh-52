@@ -1,170 +1,101 @@
-<!-- ===================== SPIDER-VERSE HEADER ===================== -->
+<div align="center">
+  <img src="assets/spider-banner.svg" alt="Spider-Verse Banner" width="100%" />
+</div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:8B0000,100:0066FF&height=220&section=header&text=SHIVANSH%20CHAURASIYA&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"/>
-</p>
+<div align="center">
+  <strong>🎓 MCA (Data Science) Student | 📊 Data Analytics Intern | 🚀 Aspiring Data Scientist</strong>
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=FF3333&center=true&vCenter=true&width=700&lines=Data+Science+%7C+Machine+Learning+%7C+Analytics;MCA+(Data+Science)+Student;Data+Analytics+Intern;Building+projects+one+commit+at+a+time+%F0%9F%95%B7%EF%B8%8F"/>
-</p>
+<br />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SPIDER--VERSE-DEVELOPER-111111?style=for-the-badge&logo=spider&logoColor=FF0000"/>
-  <img src="https://img.shields.io/badge/DATA-SCIENCE-111111?style=for-the-badge&logo=python&logoColor=3776AB"/>
-  <img src="https://img.shields.io/badge/MACHINE-LEARNING-111111?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
-</p>
-
----
-
-# 🕷️ Hi, I'm Shivansh
-
-> **"With great code comes great impact."**
-
-🎓 **MCA (Data Science) Student**  
-📊 **Data Analytics Intern**  
-🚀 **Aspiring Data Scientist**  
-🧠 Exploring Machine Learning, Statistics & Generative AI
-
----
+<div align="center">
+  <img src="assets/spider-divider.svg" alt="Divider" width="100%" />
+</div>
 
 ## 🕸️ About Me
 
-I'm a Data Science student who enjoys turning raw data into
-meaningful insights and building practical AI/ML projects.
+I'm a Data Science student who enjoys turning raw data into meaningful insights and building practical AI/ML projects. I believe in learning by building — every project is another web connecting me to the next skill. 🕷️
 
-Currently working on:
+- 🔭 **Currently working on:** Data Analytics, Machine Learning, Data Visualization, Generative AI, and Python-based projects.
+- 🎓 **Education:** MCA (Data Science) Student.
+- 🌍 **Based in:** Varanasi, India.
+- 💬 **Ask me about:** Python, Data Analysis, Machine Learning, React, and Generative AI.
 
-- 📊 Data Analytics
-- 🤖 Machine Learning
-- 📈 Data Visualization
-- 🧠 Generative AI
-- 🐍 Python-based data projects
+<div align="center">
+  <img src="assets/spider-divider.svg" alt="Divider" width="100%" />
+</div>
 
-I believe in learning by building — every project is another
-web connecting me to the next skill. 🕷️
+## 🛠️ Tech Stack & Arsenal
 
----
+<div align="center">
+  <h3>Data Science & ML</h3>
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Python&logoColor=black" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  
+  <h3>Web Development</h3>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</div>
 
-# 🧪 Spider Lab — Tech Arsenal
+<br />
 
-### 🐍 Languages
+<div align="center">
+  <img src="assets/spider-divider.svg" alt="Divider" width="100%" />
+</div>
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,sql"/>
-</p>
+## 🚀 Featured Projects
 
-### 📊 Data Science
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[🫁 LungSenseAI](https://github.com/Shivansh-52)** | AI-powered respiratory sound analysis using machine learning and deep learning (CNN & BiLSTM). | `Python` `ML` `CNN` `BiLSTM` |
+| **[📊 MegaMart Sales Analytics](https://github.com/Shivansh-52)** | Retail analytics project exploring sales, customer segments, and product performance. | `Python` `NumPy` `Pandas` |
+| **[🕉️ Kashi](https://github.com/Shivansh-52/Kashi)** | An immersive, storytelling-focused web experience taking visitors on a spiritual journey through Varanasi. | `React` `TypeScript` `Vite` |
+| **[💪 Nutrifit](https://github.com/Shivansh-52/Nutrifit)** | Fitness and nutrition tracking platform. | `JavaScript` `HTML/CSS` |
 
-<p>
-<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib"/>
-</p>
+<div align="center">
+  <img src="assets/spider-divider.svg" alt="Divider" width="100%" />
+</div>
 
-### 🛠️ Tools
+## 📈 Spider-Verse Activity
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-</p>
+*Visualizing my GitHub activity. (Note: The animation below is automatically updated daily via GitHub Actions)*
 
----
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Shivansh-52/Shivansh-52/raw/output/dist/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Shivansh-52/Shivansh-52/raw/output/dist/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://github.com/Shivansh-52/Shivansh-52/raw/output/dist/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</div>
 
-# 🕷️ Featured Projects
+<div align="center">
+  <img src="assets/spider-divider.svg" alt="Divider" width="100%" />
+</div>
 
-<table>
-<tr>
+## 🌐 Connect With Me
 
-<td width="50%">
+<div align="center">
+  <a href="https://shivansh-29.in/">
+    <img src="https://img.shields.io/badge/Portfolio-0D0D12?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/shivansh43">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-E13036?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
-### 🫁 LungSenseAI
+<br />
 
-AI-powered respiratory sound analysis using
-machine learning and deep learning.
-
-**Tech:** Python • ML • CNN • BiLSTM
-
-</td>
-
-<td width="50%">
-
-### 📊 MegaMart Sales Analytics
-
-Retail analytics project exploring sales,
-customers and product performance.
-
-**Tech:** Python • NumPy • Pandas • Matplotlib
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 💰 Personal Finance Manager
-
-A Python-based project for managing and
-analyzing personal finances.
-
-**Tech:** Python • OOP
-
-</td>
-
-<td width="50%">
-
-### 🐍 Python Basics Repository
-
-A structured collection of Python concepts,
-examples and practice programs.
-
-**Tech:** Python
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🕸️ Spider-Verse Activity
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivansh-52&theme=dark&background=050505&border=8B0000&stroke=8B0000&ring=FF3333&fire=FF3333&currStreakLabel=FF3333"/>
-
-</p>
-
----
-
-## 🕷️ Contribution Web
-
-<p align="center">
-
-<img src="./github-snake.svg" alt="GitHub Contribution Snake"/>
-
-</p>
-
----
-
-# 📊 GitHub Intelligence
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Shivansh-52&show_icons=true&theme=dark&bg_color=050505&title_color=FF3333&icon_color=0066FF&text_color=FFFFFF&border_color=8B0000"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivansh-52&layout=compact&theme=dark&bg_color=050505&title_color=FF3333&text_color=FFFFFF&border_color=8B0000"/>
-
-</p>
-
----
-
-# 🕸️ Currently Learning
-
-```text
-Machine Learning       ███████████████░░░
-Data Visualization     ██████████████░░░░
-Statistics              ████████████░░░░░
-Generative AI           ██████████░░░░░░░
+<div align="center">
+  <img src="assets/spider-footer.svg" alt="Footer" width="100%" />
+</div>
