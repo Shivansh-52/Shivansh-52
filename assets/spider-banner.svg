@@ -1,42 +1,52 @@
-<svg width="800" height="250" viewBox="0 0 800 250" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <!-- Dark Background -->
-  <rect width="800" height="250" fill="#0D0D12"/>
-  
-  <!-- Subtle Grid & Web Elements -->
-  <g opacity="0.15">
-    <path d="M400,0 L400,250 M0,125 L800,125" stroke="url(#webGradient)" stroke-width="2"/>
-    <circle cx="400" cy="125" r="50" stroke="url(#webGradient)" stroke-width="1.5"/>
-    <circle cx="400" cy="125" r="100" stroke="url(#webGradient)" stroke-width="1.5"/>
-    <circle cx="400" cy="125" r="150" stroke="url(#webGradient)" stroke-width="1.5"/>
-    <path d="M300,25 L500,225 M300,225 L500,25 M200,60 L600,190 M200,190 L600,60" stroke="url(#webGradient)" stroke-width="1.5"/>
+<svg width="1000" height="300" viewBox="0 0 1000 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Deep Dark Background -->
+  <rect width="1000" height="300" fill="#0A0B10"/>
+
+  <!-- Glowing Corner Orbs (Spidey Red and Blue) -->
+  <ellipse cx="150" cy="50" rx="350" ry="200" fill="#E13036" opacity="0.15" filter="blur(50px)"/>
+  <ellipse cx="850" cy="250" rx="350" ry="200" fill="#0059B2" opacity="0.15" filter="blur(50px)"/>
+
+  <!-- Pronounced Spider Web Pattern -->
+  <g stroke="#ffffff" opacity="0.08" stroke-width="1.5">
+    <!-- Radials -->
+    <path d="M500,150 L500,0 M500,150 L500,300" />
+    <path d="M500,150 L0,150 M500,150 L1000,150" />
+    <path d="M500,150 L150,0 M500,150 L850,300" />
+    <path d="M500,150 L850,0 M500,150 L150,300" />
+    <path d="M500,150 L300,0 M500,150 L700,300" />
+    <path d="M500,150 L700,0 M500,150 L300,300" />
+    <!-- Concentric Web Hexagons -->
+    <polygon points="500,50 650,80 700,150 650,220 500,250 350,220 300,150 350,80" fill="none" stroke-linejoin="round"/>
+    <polygon points="500,-50 800,10 900,150 800,290 500,350 200,290 100,150 200,10" fill="none" stroke-linejoin="round"/>
   </g>
-  
-  <!-- Red & Blue Glare Accents -->
-  <ellipse cx="100" cy="50" rx="200" ry="100" fill="url(#redGlow)" opacity="0.4" filter="blur(40px)"/>
-  <ellipse cx="700" cy="200" rx="200" ry="100" fill="url(#blueGlow)" opacity="0.4" filter="blur(40px)"/>
 
-  <!-- Typography -->
-  <text x="400" y="90" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="36" font-weight="800" fill="#FFFFFF" text-anchor="middle" letter-spacing="2">SHIVANSH CHAURASIYA</text>
-  
-  <text x="400" y="130" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#E13036" text-anchor="middle" letter-spacing="4">DATA ANALYST &amp; AI ENTHUSIAST</text>
-  
-  <rect x="250" y="155" width="300" height="40" rx="20" fill="rgba(255,255,255,0.05)" stroke="#387ACF" stroke-width="1"/>
-  <text x="400" y="181" font-family="'Courier New', Courier, monospace" font-size="14" font-weight="500" fill="#387ACF" text-anchor="middle">"With great code comes great impact."</text>
+  <!-- Central Spider Emblem (Faintly in the background) -->
+  <g transform="translate(500,150) scale(0.6)" fill="#E13036" opacity="0.2">
+    <!-- Spider Body & Head -->
+    <path d="M0,40 L-15,10 L-5,-20 L0,-30 L5,-20 L15,10 Z" />
+    <!-- Legs -->
+    <path d="M-5,-10 L-40,-50 L-60,-20 M-5,0 L-50,-20 L-80,20 M-10,20 L-60,50 L-40,90 M-5,30 L-30,70 L-10,110" stroke="#E13036" stroke-width="6" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+    <path d="M5,-10 L40,-50 L60,-20 M5,0 L50,-20 L80,20 M10,20 L60,50 L40,90 M5,30 L30,70 L10,110" stroke="#E13036" stroke-width="6" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+  </g>
 
-  <!-- Gradients -->
-  <defs>
-    <linearGradient id="webGradient" x1="0" y1="0" x2="800" y2="250" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#E13036"/>
-      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.3"/>
-      <stop offset="1" stop-color="#387ACF"/>
-    </linearGradient>
-    <radialGradient id="redGlow" cx="0.5" cy="0.5" r="0.5" fx="0.5" fy="0.5">
-      <stop offset="0%" stop-color="#E13036"/>
-      <stop offset="100%" stop-color="#E13036" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="blueGlow" cx="0.5" cy="0.5" r="0.5" fx="0.5" fy="0.5">
-      <stop offset="0%" stop-color="#387ACF"/>
-      <stop offset="100%" stop-color="#387ACF" stop-opacity="0"/>
-    </radialGradient>
-  </defs>
+  <!-- Main Typography Container -->
+  <!-- Name -->
+  <text x="500" y="120" font-family="'Impact', 'Arial Black', sans-serif" font-size="52" font-weight="900" fill="#FFFFFF" text-anchor="middle" letter-spacing="4" font-style="italic">
+    SHIVANSH CHAURASIYA
+  </text>
+  <!-- Red Drop Shadow for Name to give comic vibe -->
+  <text x="503" y="123" font-family="'Impact', 'Arial Black', sans-serif" font-size="52" font-weight="900" fill="#E13036" text-anchor="middle" letter-spacing="4" font-style="italic" opacity="0.6" z-index="-1">
+    SHIVANSH CHAURASIYA
+  </text>
+  
+  <!-- Subtitle -->
+  <rect x="250" y="145" width="500" height="35" rx="5" fill="#E13036"/>
+  <text x="500" y="170" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="3">
+    DATA ANALYST &amp; AI ENTHUSIAST
+  </text>
+  
+  <!-- Quote -->
+  <text x="500" y="215" font-family="'Courier New', Courier, monospace" font-size="16" font-weight="600" fill="#4B9AE8" text-anchor="middle">
+    "With great data comes great impact."
+  </text>
 </svg>
